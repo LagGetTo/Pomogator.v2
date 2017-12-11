@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot trying..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LagGetTo/Pomogator.git"
+  },
+  "author": "AxRS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LagGetTo/Pomogator/issues"
+  },
+  "homepage": "https://github.com/LagGetTo/Pomogator#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
